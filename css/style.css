@@ -168,7 +168,7 @@ span{
 } 
 
 
- @media (max-width:376px) and (min-width:389px) { 
+ /* @media (max-width:376px) and (min-width:389px) { 
 
     main{
         padding: 10px;
@@ -223,11 +223,10 @@ span{
         grid-template-columns: repeat(2,100px);
     }
 
-} 
+}  */
 
 
-
- @media (max-width:391px) and (min-width:419px) {  
+ /* @media (max-width:391px) and (min-width:419px) {  
     main{
         padding: 10px;
     }
@@ -281,10 +280,10 @@ span{
         grid-template-columns: repeat(2,100px);
     }
 
-} 
+}  */
 
 
-@media (max-width:415px) and (min-width:790px) {
+@media (max-width:420px) and (min-width:790px) {
 
     main{
         padding: 10px;
